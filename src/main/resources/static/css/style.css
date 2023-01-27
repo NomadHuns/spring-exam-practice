@@ -1,0 +1,14 @@
+        .align_center_box {
+            display: flex;
+            justify-content: center;
+        }
+
+        .nav_content {
+            padding: 2px;
+            text-decoration: none;
+        }
+
+        .align_right_box {
+            display: flex;
+            justify-content: right;
+        }
