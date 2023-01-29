@@ -20,9 +20,4 @@ public class UserController {
     public String updateForm() {
         return "user/updateForm";
     }
-
-    @GetMapping("/board/list")
-    public String list() {
-        return "board/list";
-    }
 }
